@@ -12,7 +12,7 @@ const CateringPage = () => {
     },
     {
       title: "Vegetarian",
-      description: "Our range of vegan food",
+      description: "Our range of vegetarian food",
       imgUrl:
         "https://image.freepik.com/free-photo/blurred-background-blur-people-shopping-product-shelf-supermarket-background_7190-2028.jpg",
     },
